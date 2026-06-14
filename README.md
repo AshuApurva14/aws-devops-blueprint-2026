@@ -73,7 +73,9 @@ We welcome contributions! Please:
 
 ## License
 
-[Add your license here]
+This project is licensed under the **Creative Commons Zero (CC0 1.0 Universal)** license, which means it is dedicated to the public domain. You are free to use, modify, and distribute this work for any purpose, including commercial purposes, without asking permission or providing attribution.
+
+For more details, see the [LICENSE](LICENSE) file.
 
 ## Support
 
