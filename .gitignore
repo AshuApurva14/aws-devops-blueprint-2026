@@ -42,3 +42,12 @@ dist
 logs
 
 .env
+
+rustup.sh
+
+*.tar.gz
+
+Cargo.lock
+
+Cargo.toml
+
